@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="convert">Convert</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="in_celsius">In Celsius</string>
+    <string name="in_fahrenheit">In Fahrenheit</string>
+    <string name="enter_the_number">Enter The Number</string>
+    <string name="enter_the_number1">Enter The Number</string>
+    <string name="convert_from_c_to_f">Convert From C to F</string>
+</resources>
